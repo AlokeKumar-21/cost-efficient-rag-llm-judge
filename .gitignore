@@ -1,0 +1,17 @@
+
+# Secrets
+.env
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local generated vector index
+data/faiss.index
+data/chunks.json
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db

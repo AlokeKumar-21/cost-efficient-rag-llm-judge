@@ -1,0 +1,78 @@
+
+[
+  {
+    "id": 1,
+    "question": "How should I decide when to water a plant?",
+    "relevant_terms": ["soil", "watering", "species"]
+  },
+  {
+    "id": 2,
+    "question": "Why should I avoid leaving plant roots in water?",
+    "relevant_terms": ["roots", "water", "drainage"]
+  },
+  {
+    "id": 3,
+    "question": "What kind of light do houseplants need?",
+    "relevant_terms": ["light", "bright indirect"]
+  },
+  {
+    "id": 4,
+    "question": "How can I tell if a plant is getting too much light?",
+    "relevant_terms": ["light", "plant"]
+  },
+  {
+    "id": 5,
+    "question": "Why do plant pots need drainage holes?",
+    "relevant_terms": ["drainage", "roots"]
+  },
+  {
+    "id": 6,
+    "question": "How should I choose soil for a plant?",
+    "relevant_terms": ["growing medium", "species"]
+  },
+  {
+    "id": 7,
+    "question": "Can too much fertilizer damage a plant?",
+    "relevant_terms": ["fertilizer", "damage roots"]
+  },
+  {
+    "id": 8,
+    "question": "When might houseplants need less fertilizer?",
+    "relevant_terms": ["fertilizer", "slow growth"]
+  },
+  {
+    "id": 9,
+    "question": "What are common reasons for yellow leaves?",
+    "relevant_terms": ["yellow leaves", "overwatering", "light"]
+  },
+  {
+    "id": 10,
+    "question": "What should I check before treating yellow leaves?",
+    "relevant_terms": ["soil moisture", "drainage", "care history"]
+  },
+  {
+    "id": 11,
+    "question": "How should I inspect a plant for pests?",
+    "relevant_terms": ["leaves", "stems", "pests"]
+  },
+  {
+    "id": 12,
+    "question": "What precautions should I take with pest treatments?",
+    "relevant_terms": ["product instructions", "children", "pets"]
+  },
+  {
+    "id": 13,
+    "question": "How can poor drainage affect plant roots?",
+    "relevant_terms": ["drainage", "roots", "persistently wet"]
+  },
+  {
+    "id": 14,
+    "question": "Should I change a plant's position suddenly when adjusting light?",
+    "relevant_terms": ["light", "gradually"]
+  },
+  {
+    "id": 15,
+    "question": "Who won the 2024 Olympic basketball final?",
+    "relevant_terms": []
+  }
+]
